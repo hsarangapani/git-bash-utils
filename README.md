@@ -1,6 +1,6 @@
 # git-bash-utils
 
-Download the following files in a folder under your home (~) directory
+Download the following files in a folder (cmdline_scripts) under your home (~) directory
 
 * bash_colors
 * bash_functions
